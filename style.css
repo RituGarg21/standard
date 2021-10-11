@@ -86,9 +86,12 @@ h2 {
 #t {
     font-weight: bolder;
     text-decoration-line: underline;
-    padding-top: 100px;
+    margin-top: 180px;
+   
 }
-
+#details{
+    color: white;
+}
 h4 {
     font-weight: bold;
 }
